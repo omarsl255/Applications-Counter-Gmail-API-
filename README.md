@@ -24,7 +24,7 @@ This Python script connects to Gmail via the Google API, finds job application c
 ## Installation
 Clone repository and install dependencies:
 ```bash
-git clone [YOUR_GITHUB_REPO_URL]
+git clone https://github.com/omarsl255/Applications-Counter-Gmail-API-.git
 cd job-application-tracker
 pip install google-api-python-client google-auth-oauthlib matplotlib numpy
 ```
